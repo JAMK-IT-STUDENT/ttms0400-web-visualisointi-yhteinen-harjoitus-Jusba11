@@ -4,14 +4,11 @@
 [jusba11.github.io](https://jusba11.github.io)
 
 ## Vähän dokumentaatiota harkkatyöstä
-käytetyt fw:
-  - bootstrap 4.0 beta
-CSS-preprosessori:
-  - SASS + koala
-Aikaa meni:
-  - Noin 12h
-Oma arvio arvosanasta:
-  - 3-4
+käytetty fw: bootstrap 4.0 beta
+CSS-preprosessori: SASS + koala
+Aikaa meni: Noin 12h
+Oma arvio arvosanasta: 3-4
+
 Valitsin harjoitustyöhön avuksi bootstrapin koska se on niin hyvin dokumentoitu, ja tiedän tarvitsevani sitä vielä tulevaisuudessakin.
 Bootstrap tarjosi minulle kaiken tarvitsemani, ja vielä enemmänkin.
 Aluksi olin käsittänyt että harkkatyön deadline olisi ollut pidemmällä, joten tuli vähän kiire tuon kanssa, tästä syystä sivustolla on pari linkkiä, (about ja Health benefits), jotka eivät johda minnekkään.
