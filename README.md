@@ -5,9 +5,13 @@
 
 ## Vähän dokumentaatiota harkkatyöstä
 käytetty fw: bootstrap 4.0 beta
+
 CSS-preprosessori: SASS + koala
+
 Aikaa meni: Noin 12h
+
 Oma arvio arvosanasta: 3-4
+
 
 Valitsin harjoitustyöhön avuksi bootstrapin koska se on niin hyvin dokumentoitu, ja tiedän tarvitsevani sitä vielä tulevaisuudessakin.
 Bootstrap tarjosi minulle kaiken tarvitsemani, ja vielä enemmänkin.
